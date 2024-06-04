@@ -1,0 +1,29 @@
+City Street View Dataset:
+
+
+
+Chicago precinct:
+Chicago Data Portal
+https://data.cityofchicago.org/Facilities-Geographic-Boundaries/PRECINCTS_2012/nvke-umup/about_data
+PRECINCTS_2012_20240603.csv
+
+San Francisco precinct:
+DATASF
+https://data.sfgov.org/City-Management-and-Ethics/Election-Precincts-Historical-Defined-2012/bsfq-aeyw/about_data
+Election_Precincts_-_Historical__Defined_2012_20240603
+
+Detroit precinct:
+City of Detroit Open Data Portal
+https://detroitmi.gov/sites/detroitmi.localhost/files/2019-07/election_precincts2018.pdf
+https://data.detroitmi.gov/datasets/detroitmi::election-precincts/explore
+Election_Precincts.geojson
+
+NYC precinct:
+NYC Open Data
+https://data.cityofnewyork.us/City-Government/Election-Districts/h2n3-98hq
+Election Districts.geojson
+
+washington precinct:
+OPEN DATA DC
+https://opendata.dc.gov/datasets/DCGIS::voting-precinct-2019/about
+Voting_Precinct_2019.geojson
