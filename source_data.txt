@@ -1,6 +1,13 @@
 City Street View Dataset:
+This is a dataset of 50,000 Google Street View Images that I gathered from the Google Street View API from 5 cities (San Francisco, Detroit, Chicago, Washington, & New York City).
+picture_coords.csv
+https://www.kaggle.com/datasets/stelath/city-street-view-dataset
 
-
+Dados eleitorais:
+HAVARD DATAVERSE
+U.S. President Precinct-Level Returns 2020
+PRESIDENT_precinct_general.csv
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JXPREB
 
 Chicago precinct:
 Chicago Data Portal
